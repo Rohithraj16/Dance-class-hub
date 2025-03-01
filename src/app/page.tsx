@@ -1,5 +1,5 @@
 import Featured from "@/components/Featured";
-import Footer from "@/components/footer";
+import Footer from "@/components/Footer";
 
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
