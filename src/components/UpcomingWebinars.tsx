@@ -5,46 +5,45 @@ import { HoverEffect } from "./ui/card-hover-effect";
 function UpcomingWebinars() {
 	const featuredWebinars = [
 		{
-			title: "Understanding Music Theory",
+			title: "Understanding Dance Techniques",
 			description:
-				"Dive deep into the fundamentals of music theory and enhance your musical skills.",
-			slug: "understanding-music-theory",
+				"Explore the fundamentals of dance techniques and enhance your movement skills.",
+			slug: "understanding-dance-techniques",
 			isFeatured: true,
 		},
 		{
-			title: "The Art of Songwriting",
+			title: "The Art of Choreography",
 			description:
-				"Learn the craft of songwriting from experienced musicians and songwriters.",
-			slug: "the-art-of-songwriting",
+				"Learn the craft of creating compelling dance routines from experienced choreographers.",
+			slug: "the-art-of-choreography",
 			isFeatured: true,
 		},
 		{
-			title: "Mastering Your Instrument",
+			title: "Mastering Dance Styles",
 			description:
-				"Advanced techniques to master your musical instrument of choice.",
-			slug: "mastering-your-instrument",
+				"Advanced techniques to master your favorite dance styles, from ballet to hip-hop.",
+			slug: "mastering-dance-styles",
 			isFeatured: true,
 		},
 		{
-			title: "Music Production Essentials",
+			title: "Dance Performance Essentials",
 			description:
-				"Get started with music production with this comprehensive overview.",
-			slug: "music-production-essentials",
-			isFeatured: true,
-		},
-		// Added two more webinars
-		{
-			title: "Live Performance Techniques",
-			description:
-				"Enhance your live performance skills with expert tips and strategies.",
-			slug: "live-performance-techniques",
+				"Get started with live dance performance techniques through this comprehensive overview.",
+			slug: "dance-performance-essentials",
 			isFeatured: true,
 		},
 		{
-			title: "Digital Music Marketing",
+			title: "Live Dance Performance Techniques",
 			description:
-				"Learn how to promote your music effectively in the digital age.",
-			slug: "digital-music-marketing",
+				"Enhance your stage presence and live performance skills with expert tips and strategies.",
+			slug: "live-dance-performance-techniques",
+			isFeatured: true,
+		},
+		{
+			title: "Dance Promotion in the Digital Age",
+			description:
+				"Learn how to effectively promote your dance performances and brand in the digital world.",
+			slug: "dance-promotion-in-digital-age",
 			isFeatured: true,
 		},
 	];
@@ -57,7 +56,7 @@ function UpcomingWebinars() {
 						FEATURED WEBINARS
 					</h2>
 					<p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-						Enhance Your Musical Journey
+						Enhance Your Dance Journey
 					</p>
 				</div>
 
