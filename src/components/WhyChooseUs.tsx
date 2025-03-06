@@ -4,34 +4,34 @@ import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 const musicSchoolContent = [
 	{
-		title: "Discover Your Sound with Us: A Personal Journey in Music Mastery",
+		title: "Find Your Rhythm: A Personal Journey in Dance",
 		description:
-			"Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.",
+			"Step into a world where movement meets passion. Our personalized dance instruction adapts to your style, helping you grow with confidence and creativity. At our dance school, your aspirations take center stage as we guide you on your journey to mastery.",
 	},
 	{
-		title: "Discover Your Sound with Us: A Personal Journey in Music Mastery",
+		title: "Express Yourself Through Dance",
 		description:
-			"Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.",
+			"Unlock the power of movement and express yourself like never before. Our expert-led dance courses cater to all skill levels, helping you build technique, confidence, and artistry in every step.",
 	},
 	{
-		title: "Discover Your Sound with Us: A Personal Journey in Music Mastery",
+		title: "Unleash Your Inner Dancer",
 		description:
-			"Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.",
+			"No matter your experience level, our dance programs help you explore your passion, refine your skills, and develop a deeper connection to movement, music, and performance.",
 	},
 	{
 		title: "Live Feedback & Engagement",
 		description:
-			"Immerse yourself in an interactive learning experience where feedback is immediate, just like real-time changes in a collaborative project. This approach enhances your understanding and mastery of music concepts and performance techniques.",
+			"Immerse yourself in an interactive dance experience where real-time feedback refines your technique. Just like a live dance class, our approach ensures you improve with every step, turn, and movement.",
 	},
 	{
-		title: "Cutting-Edge Curriculum",
+		title: "Innovative Dance Curriculum",
 		description:
-			"Our curriculum is continuously updated to include the latest music education trends and technologies, ensuring you’re always learning with the most current and effective methods. Say goodbye to outdated materials and welcome an education that evolves with the industry.",
+			"Our curriculum stays ahead of the curve, incorporating the latest dance styles, techniques, and trends. Stay inspired and evolve as a dancer with a program designed for modern movers.",
 	},
 	{
-		title: "Limitless Learning Opportunities",
+		title: "Endless Opportunities to Grow",
 		description:
-			"With our expansive resource library and dynamic course offerings, you’ll never find yourself without something new to explore. Our platform provides continuous opportunities for growth, ensuring your musical skills are always advancing.",
+			"With a wide variety of dance styles and skill-based courses, your learning never stops. Whether you're perfecting fundamentals or mastering advanced choreography, our platform offers endless ways to grow as a dancer.",
 	},
 ];
 
