@@ -22,7 +22,7 @@ function MusicSchoolContactUs() {
 				<p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center">
 					We&apos;re here to help with any questions about our courses,
 					programs, or events. Reach out and let us know how we can assist you
-					in your musical journey.
+					in your dance journey.
 				</p>
 				<div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6">
 					<h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
@@ -78,10 +78,10 @@ function MusicSchoolContactUs() {
 						Visit Us
 					</h3>
 					<p className="text-sm text-gray-600 dark:text-gray-300">
-						123 Music Lane, Melody City, 56789
+						123 Dance Lane, Melody City, 56789
 					</p>
 					<p className="text-sm text-gray-600 dark:text-gray-300">
-						Phone: (123) 456-7890
+						Phone: (+91) 987-999-0000
 					</p>
 				</div>
 			</div>
